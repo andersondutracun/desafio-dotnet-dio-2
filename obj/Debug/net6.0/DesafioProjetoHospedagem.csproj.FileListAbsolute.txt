@@ -1,0 +1,15 @@
+C:\Users\anderson.cuncorda\Desktop\cursos dio\bootcamp\full stack  com c# e react\trilha-net-explorando-desafio\bin\Debug\net6.0\DesafioProjetoHospedagem.exe
+C:\Users\anderson.cuncorda\Desktop\cursos dio\bootcamp\full stack  com c# e react\trilha-net-explorando-desafio\bin\Debug\net6.0\DesafioProjetoHospedagem.deps.json
+C:\Users\anderson.cuncorda\Desktop\cursos dio\bootcamp\full stack  com c# e react\trilha-net-explorando-desafio\bin\Debug\net6.0\DesafioProjetoHospedagem.runtimeconfig.json
+C:\Users\anderson.cuncorda\Desktop\cursos dio\bootcamp\full stack  com c# e react\trilha-net-explorando-desafio\bin\Debug\net6.0\DesafioProjetoHospedagem.dll
+C:\Users\anderson.cuncorda\Desktop\cursos dio\bootcamp\full stack  com c# e react\trilha-net-explorando-desafio\bin\Debug\net6.0\DesafioProjetoHospedagem.pdb
+C:\Users\anderson.cuncorda\Desktop\cursos dio\bootcamp\full stack  com c# e react\trilha-net-explorando-desafio\obj\Debug\net6.0\DesafioProjetoHospedagem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anderson.cuncorda\Desktop\cursos dio\bootcamp\full stack  com c# e react\trilha-net-explorando-desafio\obj\Debug\net6.0\DesafioProjetoHospedagem.AssemblyInfoInputs.cache
+C:\Users\anderson.cuncorda\Desktop\cursos dio\bootcamp\full stack  com c# e react\trilha-net-explorando-desafio\obj\Debug\net6.0\DesafioProjetoHospedagem.AssemblyInfo.cs
+C:\Users\anderson.cuncorda\Desktop\cursos dio\bootcamp\full stack  com c# e react\trilha-net-explorando-desafio\obj\Debug\net6.0\DesafioProjetoHospedagem.csproj.CoreCompileInputs.cache
+C:\Users\anderson.cuncorda\Desktop\cursos dio\bootcamp\full stack  com c# e react\trilha-net-explorando-desafio\obj\Debug\net6.0\DesafioProjetoHospedagem.sourcelink.json
+C:\Users\anderson.cuncorda\Desktop\cursos dio\bootcamp\full stack  com c# e react\trilha-net-explorando-desafio\obj\Debug\net6.0\DesafioProjetoHospedagem.dll
+C:\Users\anderson.cuncorda\Desktop\cursos dio\bootcamp\full stack  com c# e react\trilha-net-explorando-desafio\obj\Debug\net6.0\refint\DesafioProjetoHospedagem.dll
+C:\Users\anderson.cuncorda\Desktop\cursos dio\bootcamp\full stack  com c# e react\trilha-net-explorando-desafio\obj\Debug\net6.0\DesafioProjetoHospedagem.pdb
+C:\Users\anderson.cuncorda\Desktop\cursos dio\bootcamp\full stack  com c# e react\trilha-net-explorando-desafio\obj\Debug\net6.0\DesafioProjetoHospedagem.genruntimeconfig.cache
+C:\Users\anderson.cuncorda\Desktop\cursos dio\bootcamp\full stack  com c# e react\trilha-net-explorando-desafio\obj\Debug\net6.0\ref\DesafioProjetoHospedagem.dll
